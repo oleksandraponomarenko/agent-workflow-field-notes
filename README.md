@@ -1,8 +1,8 @@
 # Agent Workflow Field Notes
 
-A working portfolio of human–agent workflows built and used in practice.
+A growing field journal of human–agent workflows and observed agent behavior.
 
-The purpose of this repository is to preserve practical work while its context is still available: what needed to be done, how the human and the agent worked together, what each contributed, and what the collaboration produced.
+The purpose of this repository is to preserve practical work and observations while their context is still available: what needed to be done, how the human and agent worked together, what each contributed, and what happened at the boundaries of scope, tools, and authorization.
 
 ## Workflow index
 
@@ -12,6 +12,10 @@ The purpose of this repository is to preserve practical work while its context i
 | WF-002 | [Instruction-Guided Inbox Triage and File Routing](workflows/002-inbox-triage-and-file-routing/README.md) | Recurring maintenance | Scaffold; source materials pending |
 | WF-003 | [Longitudinal Budget Tracking and Analysis](workflows/003-budget-tracking-and-analysis/README.md) | Ongoing collaboration | Scaffold; source materials pending |
 | WF-004 | [Human–Agent Publishing Workflow Orchestration](workflows/004-publishing-workflow-orchestration/README.md) | Milestone-based collaboration | Scaffold; source materials pending |
+
+## Behavioral observations
+
+- [Scope expansion, action authorization, and procedural context](observations/behavioral-observations-ai-agent-workflows.md) — anonymized working note on two user-observed events. Inferences and unknowns are identified separately.
 
 ## Reading the records
 
