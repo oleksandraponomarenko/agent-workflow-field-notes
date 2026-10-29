@@ -29,6 +29,8 @@ The operating instructions grew more precise during collaboration. The supplied 
 
 These are documented as **later operating rules**. The available sources do not establish the exact order in which each rule was first proposed or revised during the initial cleanup.
 
+An [illustrative folder map and rule examples](../sorting-workflow-examples.md) show how this design handled sensitive files, untrusted document text, and action boundaries without revealing the private folder tree.
+
 ## Human–agent orchestration and control
 
 The human contribution was workflow design and decision authority, not simply providing files: the author defined the taxonomy, exceptions, prohibitions, and approval boundary; reviewed uncertain classifications; and determined what the agent could execute. The agent's role was to inspect within the agreed scope, classify, propose or carry out authorized moves, and report what it did or could not resolve.

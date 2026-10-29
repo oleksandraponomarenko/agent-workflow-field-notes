@@ -29,6 +29,8 @@ The author specified what an agent may do and what remains a human decision. Rou
 
 Suspected duplicates require comparison before classification. Deletion appears in the private log only where the author gave direct permission; those exceptional deletions are not part of routine inbox sorting. The supplied agent instruction says not to create a persistent log unless the author requests one; the later sorting rules and the author's account establish the log as a required part of the recurring workflow. The sources do not fix the exact date of that change.
 
+See the [anonymized sorting examples](../sorting-workflow-examples.md) for a sample folder map, decisions at the inbox boundary, and the explicit treatment of OCR, secrets, embedded instructions, and protected areas.
+
 ## Evidence of execution
 
 The supplied log contains two dated sorting batches. It records grouped and individual moves into project, personal, learning, visual, and archive-related destinations; newly created subfolders; material left in the inbox; and exceptional, explicitly authorized deletions. One batch preserved an archive without unpacking it. Another kept uncertain or conflicting versions in the inbox rather than replacing an existing file.
