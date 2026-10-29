@@ -8,8 +8,8 @@ The purpose of this repository is to preserve practical work and observations wh
 
 | ID | Workflow | Mode | Documentation |
 | --- | --- | --- | --- |
-| WF-001 | [Local Filesystem Reorganization, Archival, and Backup](workflows/001-local-filesystem-reorganization/README.md) | One-time reorganization | Scaffold; source materials pending |
-| WF-002 | [Instruction-Guided Inbox Triage and File Routing](workflows/002-inbox-triage-and-file-routing/README.md) | Recurring maintenance | Scaffold; source materials pending |
+| WF-001 | [Local Filesystem Reorganization, Archival, and Backup](workflows/001-local-filesystem-reorganization/README.md) | One-time reorganization | In progress; author account and operating documents reviewed |
+| WF-002 | [Instruction-Guided Inbox Triage and File Routing](workflows/002-inbox-triage-and-file-routing/README.md) | Recurring maintenance | In progress; operating rules and two log entries reviewed |
 | WF-003 | [Longitudinal Budget Tracking and Analysis](workflows/003-budget-tracking-and-analysis/README.md) | Ongoing collaboration | Scaffold; source materials pending |
 | WF-004 | [Human–Agent Publishing Workflow Orchestration](workflows/004-publishing-workflow-orchestration/README.md) | Milestone-based collaboration | Scaffold; source materials pending |
 
@@ -21,7 +21,7 @@ The purpose of this repository is to preserve practical work and observations wh
 
 Each workflow records the task, environment, human and agent responsibilities, execution process, review points, outputs, and results.
 
-The initial summaries are based on the repository author's account provided on 26 October 2026. They reserve the four areas for documentation; they are not complete process reconstructions or independently verified case studies. The documentation date does not establish when a workflow took place.
+The records begin with the author's account. WF-001 and WF-002 now also draw on private operating instructions and a dated execution log; their public summaries omit identifying paths and filenames. WF-003 and WF-004 remain scaffolds. None is a controlled or independently verified case study. The documentation date does not establish when a workflow took place.
 
 Supporting materials will be added as available. Unknown details remain explicitly marked. Reported results, artifact-supported results, and proposed improvements are kept separate.
 

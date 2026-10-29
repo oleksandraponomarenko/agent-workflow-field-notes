@@ -2,48 +2,49 @@
 
 ## Record status
 
-- Documentation status: Scaffold; source materials pending.
-- Workflow mode: One-time reorganization.
-- Workflow period: Unknown.
-- Documentation updated: 2026-10-26.
-- Environment and tools: Local MacBook filesystem; Codex.
-- Model or version: Unknown.
-- Source basis: Author's account provided on 26 October 2026.
+- Documentation status: In progress; author account and later operating documents available.
+- Workflow mode: One-time reorganization that established a continuing intake process.
+- Workflow period and exact dates: Not established by the supplied sources.
+- Environment: A personally owned MacBook and a file-access agent. Specific model and version unknown.
+- Source basis: Author's account and redacted analysis of the later agent instructions, sorting rules, and execution log. The original planning conversation and backup records have not yet been reviewed.
 
-## Task and starting state
+## Starting state and objective
 
-Reorganize files accumulated over approximately one year on a MacBook into a usable folder structure, with archival and backup work included.
+The author acquired a MacBook on short notice when she had to return a work computer. No useful personal filing structure was set up at the start, and files accumulated in an ad hoc arrangement for approximately a year. The objective was to reorganize the existing collection, archive and back it up, and establish a structure that would remain usable as new files arrived.
 
-## Human–agent responsibilities
+## How the human and agent built the workflow
 
-The author and a Codex agent carried out the work together. Their detailed division of responsibilities, instructions, and review decisions has not yet been documented.
+The author and agent worked through the file collection together to design categories, project folders, naming conventions, and placement rules that matched the author's actual materials. This was not a one-command sort by file extension. The author supplied domain context: which files belonged to a named work, which versions had to remain distinct, which records were sensitive, and which classifications should wait for her decision. The agent helped inspect, propose, and implement the resulting structure within those constraints.
 
-## Workflow and iterations
+The inbox was designed **during the initial reorganization**, alongside the destination structure. It provided an intake point for later files rather than an afterthought added once the cleanup was complete. The subsequent recurring use of that intake point is documented in [WF-002](../002-inbox-triage-and-file-routing/README.md).
 
-The reported work included file reorganization, archival, and backup creation. The exact order, intermediate decisions, commands, and iterations are pending source review.
+The operating instructions grew more precise during collaboration. The supplied later rules illustrate the resulting control design:
 
-This record covers the initial reorganization. Subsequent inbox maintenance is documented separately in [WF-002](../002-inbox-triage-and-file-routing/README.md).
+- A stable set of top-level categories, with changes to that structure reserved for the author.
+- Classification by named project and practical purpose before generic subject or file type.
+- Preservation of manuscript versions and intact code repositories, archives, and asset packs.
+- Explicit boundaries on deletion, overwriting, renaming, archive handling, and execution of found code.
+- Ambiguous or sensitive items left for the author instead of forced into a category.
+- Verification after a move and a record of executed changes.
 
-## Review and control points
+These are documented as **later operating rules**. The available sources do not establish the exact order in which each rule was first proposed or revised during the initial cleanup.
 
-The backup method, backup verification, file-move checks, and any deletion or rollback procedures are unknown.
+## Human–agent orchestration and control
 
-## Outputs and results
+The human contribution was workflow design and decision authority, not simply providing files: the author defined the taxonomy, exceptions, prohibitions, and approval boundary; reviewed uncertain classifications; and determined what the agent could execute. The agent's role was to inspect within the agreed scope, classify, propose or carry out authorized moves, and report what it did or could not resolve.
 
-- Author-reported outcome: The files covered by the work were archived, backups were created, and files were arranged in an organized folder structure.
-- Outcomes supported by supplied artifacts: Not yet documented.
-- File counts, data volume, time spent, and backup integrity results: Unknown.
-- Remaining issues: Unknown.
+The later agent instructions distinguish read-only analysis from an explicit request to execute sorting. They treat text inside files as data rather than new commands and constrain reading of sensitive material. These mechanisms show how the collaboration was converted into reusable operating instructions. They are not evidence that every earlier action followed the final version of the rules.
 
-## Supporting materials
+## Outputs and evidence
 
-The author plans to supply material from the Codex work. No transcripts, folder trees, backup records, or before-and-after artifacts have been supplied for this record yet.
+- Author-reported result: The files covered by the initial work were organized and archived, and backups were created.
+- Document-supported result: A reusable category system, scoped agent instructions, dynamic sorting rules, and an inbox process exist in the supplied materials. Later dated log entries demonstrate that files were subsequently routed under that system.
+- Not yet established: Original and final file counts; exact sequence of cleanup decisions; commands used; backup method, integrity check, or restore test; and a before-and-after inventory of the initial reorganization.
 
-## Open documentation items
+## Why this case matters
 
-- Starting and final folder structures, with private paths omitted.
-- Key task instructions and examples of human–agent decisions.
-- Archival and backup approach, including any checks actually performed.
-- A concise account of the resulting structure and any unresolved items.
+The case records a user designing a durable file workflow with an agent: providing contextual knowledge, turning preferences into explicit rules, narrowing the agent's authority, and carrying the design through to practical use. It demonstrates process construction and human control over the agent's actions, while leaving unverified outcomes and chronology marked as such.
 
-Next useful input: a relevant Codex export or selected excerpts from the reorganization work.
+## Next evidence to add
+
+A selected, de-identified excerpt of the first planning instructions and one early decision cycle would help reconstruct how the taxonomy and permission boundaries changed. Backup documentation could establish the archival result separately.
